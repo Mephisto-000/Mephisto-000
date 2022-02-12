@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ling-Hao Lin</h1>
-<h3 align="center">A postgraduate in National Tsing Hua University</h3>
+<h3 align="center">A postgraduate in the Institute of Computational and Modeling Science</h3>
 
 - 🔭 I’m currently working on **Supermassive Black Holes Binary System**
 
