@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lin-Hao Lin</h1>
-<h3 align="center">A postgraduate in the Institute of Computational and Modeling Science</h3>
+<h3 align="center">A software engineer in Taiwan.</h3>
 
 - 🔭 When I was a postgraduate, I worked on the **Supermassive Black Holes Binary System** at the Institute of Computational and Modeling Science, and I obtained a Master's degree in Science from the same institute.
 
