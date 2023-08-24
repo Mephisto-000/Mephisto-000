@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lin-Hao Lin</h1>
 <h3 align="center">A postgraduate in the Institute of Computational and Modeling Science</h3>
 
-- 🔭 I’m currently working on **Supermassive Black Holes Binary System**
+- 🔭 When I was a postgraduate, I worked on the **Supermassive Black Holes Binary System** at the Institute of Computational and Modeling Science, and I obtained a Master's degree in Science from the same institute.
 
 - 🌱 I’m currently learning **ODE, PDE, Dynamics System, ML, Rust, C++, Python**
 
