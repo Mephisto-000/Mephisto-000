@@ -3,7 +3,7 @@
 
 - 🔭 When I was a postgraduate, I worked on the **Supermassive Black Holes Binary System** at the Institute of Computational and Modeling Science, and I obtained a Master's degree in Science from the same institute.
 
-- 🌱 I’m currently learning **ODE, PDE, Dynamics System, ML, Rust, C++, Python**
+- 🌱 I’m currently learning **ODE, PDE, Dynamics System, ML, Rust, C++, MFC, Python**
 
 
 <h3 align="left">Languages and Tools:</h3>
