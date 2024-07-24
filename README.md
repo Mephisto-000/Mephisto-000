@@ -16,12 +16,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mephisto-000&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mephisto-000&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<<<<<<< HEAD
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-=======
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
->>>>>>> 250b32ce7b0237c8346ef48bd0c5e140725b753e
