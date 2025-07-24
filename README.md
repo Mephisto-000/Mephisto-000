@@ -2,7 +2,7 @@
 ### 👨‍💻 About Me
 
 - 🔭 Currently working at **Je Pun International Co., Ltd.** as a Software Engineer.
-- 🌱 Actively learning about **databases** and **C#** to enhance my development skills.
+- 🌱 Actively learning about **Microsoft SQL Server** and **C#** to enhance my development skills.
 - 🎓 **Educational Background:**
   - Bachelor's in Mathematics from **Soochow University**, Taiwan.
   - Master's in Computational and Modeling Science from **National Tsing Hua University**, Taiwan.
