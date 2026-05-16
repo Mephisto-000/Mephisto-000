@@ -1,11 +1,11 @@
-# 💫 About Me:
+# About Me:
 ### 👨‍💻 About Me
 
-- 🔭 Currently working at **Je Pun International Co., Ltd.** as a Software Engineer.
-- 🎓 **Educational Background:**
+- Currently working at **Je Pun International Co., Ltd.** as a Software Engineer.
+-  **Educational Background:**
   - Bachelor's in Mathematics from **Soochow University**, Taiwan.
   - Master's in Computational and Modeling Science from **National Tsing Hua University**, Taiwan.
-- 🧠 My strong foundation in mathematics and computational science supports my analytical and problem-solving abilities in software development.
+-  My strong foundation in mathematics and computational science supports my analytical and problem-solving abilities in software development.
 
 
 # 💻 Tech Stack:
