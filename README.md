@@ -1,5 +1,4 @@
 # About Me:
-### 👨‍💻 About Me
 
 - Currently working at **Je Pun International Co., Ltd.** as a Software Engineer.
 -  **Educational Background:**
